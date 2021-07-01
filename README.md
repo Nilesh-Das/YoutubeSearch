@@ -10,3 +10,6 @@ and uses Flask to display the results of search
 This is great simple project for beginers to practice
 
 ![alt text](demo.png)
+
+# License
+MIT License 2021 (c) [Nilesh Das](LICENSE)
